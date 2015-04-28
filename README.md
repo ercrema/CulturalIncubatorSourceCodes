@@ -1,5 +1,5 @@
 # CulturalIncubatorSourceCodes
-Source Codes, Scripts, and outputs for the paper "Cultural Incubators and Spread of Innovation" by Enrico R. Crema and Mark W. Lake
+Source Codes, Scripts, and outputs for the paper "Cultural Incubators and Spread of Innovation" by Enrico R. Crema and Mark W. Lake (under review on Human Biology)
 
 **Authors**:
 
