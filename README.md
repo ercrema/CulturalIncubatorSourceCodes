@@ -12,7 +12,7 @@ All Codes written in R (version 3.1.2), Required Packages: utils 3.1.2; foreach 
 **File Structure**
 
 
-* ./src.R  --> Contains main source code for running all simulations
+* ./[src.R] (./src)  --> Contains main source code for running all simulations
 
 * ./experiment1 --> Folder containing scripts for executing experiment 1 (experiment1.R) as well as the output used in the paper (experiment1.RData)
 
@@ -29,7 +29,7 @@ All Codes written in R (version 3.1.2), Required Packages: utils 3.1.2; foreach 
    * ./experiments2_3/results --> folder containing .csv files of the simulation outputs for experiments 2 & 3.
     
     
-    
+  ***
     
     
     
