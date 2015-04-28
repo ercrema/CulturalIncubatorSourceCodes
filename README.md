@@ -14,7 +14,7 @@ All Codes written in R (version 3.1.2), Required Packages: utils 3.1.2; foreach 
 
 * ./[src.R] (https://github.com/ercrema/CulturalIncubatorSourceCodes/blob/master/src.R)  --> Contains main source code for running all simulations
 
-* ./experiment1 --> Folder containing scripts for executing experiment 1 (experiment1.R) as well as the output used in the paper (experiment1.RData)
+* ./[experiment1] ((https://github.com/ercrema/CulturalIncubatorSourceCodes/blob/master/experiment1) --> Folder containing scripts for executing experiment 1 (experiment1.R) as well as the output used in the paper (experiment1.RData)
 
 * /experiments2_3
 
