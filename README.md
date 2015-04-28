@@ -16,17 +16,17 @@ All Codes written in R (version 3.1.2), Required Packages: utils 3.1.2; foreach 
 
 */experiment1 --> Folder containing scripts for executing experiment 1 (experiment1.R) as well as the output used in the paper (experiment1.RData)
 
-*/experiments2_3 -->
+*/experiments2_3
 
-    *./experiments2_3/prepareSweep.R  --> script for creating a parameter combinations using Latin HyperCube Sampling
+   *./experiments2_3/prepareSweep.R  --> script for creating a parameter combinations using Latin HyperCube Sampling
     
-    *./experiments2_3/sweepExp2.RData --> parameter combinations used for experiment 2, generated with prepareSweep.R 
+   *./experiments2_3/sweepExp2.RData --> parameter combinations used for experiment 2, generated with prepareSweep.R 
     
-    *./experiments2_3/sweepExp3.RData --> parameter combinations used for experiment 3, generated with prepareSweep.R 
+   *./experiments2_3/sweepExp3.RData --> parameter combinations used for experiment 3, generated with prepareSweep.R 
     
-    *./experiments2_3/submit_* --> script for executing experiments 2 & 3. Notice that this was originally conducted on a cluster as an array job. The scripts are thus not the original codes used to generate the simulation outputs but for illustrattive purpose, showing both a single-threaded version (to be executed on a local machine) and an array version (to be executed on a cluster). 
+   *./experiments2_3/submit_``*`` --> script for executing experiments 2 & 3. Notice that this was originally conducted on a cluster as an array job. The scripts are thus not the original codes used to generate the simulation outputs but for illustrattive purpose, showing both a single-threaded version (to be executed on a local machine) and an array version (to be executed on a cluster). 
     
-    *./experiments2_3/results --> folder containing .csv files of the simulation outputs for experiments 2 & 3.
+   *./experiments2_3/results --> folder containing .csv files of the simulation outputs for experiments 2 & 3.
     
     
     
