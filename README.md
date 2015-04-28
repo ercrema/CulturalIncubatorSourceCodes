@@ -7,7 +7,17 @@ Source Codes, Scripts, and outputs for the paper "Cultural Incubators and Spread
 
 *Mark W. Lake* UCL Institute of Archaeology, email: mark.lake@ucl.ac.uk
 
-All Codes written in R (version 3.1.2), Required Packages: utils 3.1.2; foreach 1.4.2; doParallel 1.0.8; tgp 2.4.11
+**Language**
+All Codes written in R (version 3.1.2)
+
+**Dependencies**
+R Packages: utils 3.1.2; foreach 1.4.2; doParallel 1.0.8; tgp 2.4.11
+
+**Licence**:
+License: GPL (>= 3)
+
+**Date of Publication**
+28/04/2015
 
 **File Structure**
 
