@@ -14,7 +14,7 @@ All Codes written in R (version 3.1.2)
 R Packages: utils 3.1.2; foreach 1.4.2; doParallel 1.0.8; tgp 2.4.11
 
 **Licence**:
-License: GPL (>= 3)
+GPL (>= 3)
 
 **Date of Publication**:
 28/04/2015
