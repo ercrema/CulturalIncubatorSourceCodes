@@ -59,7 +59,7 @@ for (x in 1:4)
         box()
         if(x==1)
             legend("right",legend=c("CopyTheBest N=1000","CopyTheBest N=2000","CopyTheBest N=4000",
-                                    "CopyIfBetter N=1000","CopyIfBetter N=1000","CopyIfBetter N=1000"),
+                                    "CopyIfBetter N=1000","CopyIfBetter N=2000","CopyIfBetter N=4000"),
                    fill=c("pink","red","darkred","lightblue","blue","darkblue"))
 
     }
