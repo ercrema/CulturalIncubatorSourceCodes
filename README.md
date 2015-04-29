@@ -3,9 +3,13 @@ Source Codes, Scripts, and outputs for the paper "Cultural Incubators and Spread
 
 **Authors**:
 
-*Enrico R. Crema*  CaSEs Research Group - Department of HUmanities Universitat Pompeu Fabra (UPF) & UCL Institute of Archaeology, email: enrico.crema@gmail.com
+*Enrico R. Crema* 
 
-*Mark W. Lake* UCL Institute of Archaeology, email: mark.lake@ucl.ac.uk
+CaSEs Research Group - Department of Humanities Universitat Pompeu Fabra (UPF) & UCL Institute of Archaeology, email: enrico.crema@gmail.com
+
+*Mark W. Lake* 
+
+UCL Institute of Archaeology, email: mark.lake@ucl.ac.uk
 
 **Language**:
 All Codes written in R (version 3.1.2)
